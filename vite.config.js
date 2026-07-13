@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   // Troque pelo nome exato do seu repositório no GitHub.
-  base: "/conversor-pdf-excel/",
+  base: "/conversor-pdf-to-excel/",
 
   plugins: [
     react(),
